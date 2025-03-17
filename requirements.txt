@@ -1,0 +1,12 @@
+# Dev environment
+pip
+autopep8
+discord.py
+aiohttp
+asyncio
+requests
+certifi
+yt-dlp
+
+# App
+flask
